@@ -36,6 +36,13 @@ It is designed as a **creative portfolio project** to demonstrate:
 
 ---
 
+## Live preview
+
+<img width="1126" height="632" alt="Screenshot 2026-05-08 153450" src="https://github.com/user-attachments/assets/90adea69-98bf-4fad-87af-e61042d87923" />
+
+---
+
+
 ## 🧑‍🚀 Project Theme
 
 The website takes users on a **journey through space**, exploring:
